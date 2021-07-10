@@ -1,0 +1,21 @@
+[debug] [2021-07-10T22:22:11.246Z] ----------------------------------------------------------------------
+[debug] [2021-07-10T22:22:11.248Z] Command:       C:\nodejs\node.exe C:\Users\Roberto\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-07-10T22:22:11.249Z] CLI Version:   9.16.0
+[debug] [2021-07-10T22:22:11.249Z] Platform:      win32
+[debug] [2021-07-10T22:22:11.249Z] Node Version:  v14.17.1
+[debug] [2021-07-10T22:22:11.250Z] Time:          Sun Jul 11 2021 00:22:11 GMT+0200 (hora de verano de Europa central)
+[debug] [2021-07-10T22:22:11.251Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-07-10T22:22:11.262Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-07-10T22:22:11.263Z] > authorizing via signed-in user (roberto.alonso.gandia@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Roberto\proyectos\webrtc-firebase-demo-main\webrtc-firebase-demo-main
+
